@@ -1,0 +1,6 @@
+{
+  "name": "Tihar Nepal",
+  "description": "A digital celebration platform dedicated to Nepal's five-day Tihar festival. Preserving traditions with interactive Rangoli, Deusi Bhailo, Virtual Diyas, Wishes Studio, and Community Gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
