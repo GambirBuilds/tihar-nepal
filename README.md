@@ -141,22 +141,6 @@ The application works 100% out-of-the-box with offline-first client storage. Whe
    VITE_SUPABASE_URL="https://your-project.supabase.co"
    VITE_SUPABASE_ANON_KEY="your-anon-public-key"
    ```
-
----
-
-## 🚢 Deployment to Vercel
-
-This project is fully optimized for one-click Vercel deployment:
-
-1. Push this repository to **GitHub**.
-2. Visit [vercel.com](https://vercel.com) and click **"Add New Project"**.
-3. Import the GitHub repository.
-4. Framework Preset: **Vite**.
-5. Build Command: `npm run build`.
-6. Output Directory: `dist`.
-7. (Optional) Set `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` in Environment Variables.
-8. Click **Deploy**!
-
 ---
 
 ## 📜 Cultural Respect & Heritage Note
